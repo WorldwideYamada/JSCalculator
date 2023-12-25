@@ -2,7 +2,7 @@
  
 ## Simple Calculator Side Project
 
-https://worldwideyamadadevelopment.on.drv.tw/www.WorldWideYamadaCalculator.dev/
+https://worldwideyamadadevelopment.on.drv.tw/Calculator/
 
 ### Special Features!:
 #### -Can Calculate
