@@ -1,5 +1,14 @@
 const display = document.getElementById('display');
 
+
+/*
+To Do List:
+Reset Display Value after Evaluation while showing result
+Make Calculator actually pleasing to look at (CASIO)
+Add History function
+
+
+*/
 function appendToDisplay(input) {
     const finalChar = display.value.length-1;
     //If display contains no inputs yet, add the first input
